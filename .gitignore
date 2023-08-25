@@ -1,4 +1,3 @@
-
 .anchor
 .DS_Store
 target
@@ -7,3 +6,4 @@ node_modules
 uberMMSDK/test.ts
 test-ledger
 .yarn
+.env
